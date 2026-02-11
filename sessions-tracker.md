@@ -13,3 +13,5 @@ Created 16 GitHub issues using `gh issue create` command, one for each phase out
 - Dependencies on previous phases
 
 All issues were successfully created in the mfigueireddo/webdev repository (issues #1-#16).
+
+**NOTE**: it didn't follow my Copilot's instructions file.
