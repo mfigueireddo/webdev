@@ -1,0 +1,1 @@
+Just asked Claude to give me a project idea.
